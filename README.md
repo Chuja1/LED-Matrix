@@ -4,11 +4,9 @@ LED Matrix for ECE 387J
 Justin Chu
 
 This GitHub page is for my Midterm chip/peripheral selection.
-This wiki page will be a guide for everything that is on this repository.
-This page will be split into categories:
+The wiki page will be a guide for everything that is on this repository.
 
-**Peripheral Description, Code, Demo**
+Wiki: https://github.com/Chuja1/LED-Matrix/wiki
 
-**Peripheral Description:**
-
+Note that due to many issues with trying to write and compile C code, the code on this page will be Arduino IDE code. I do not expect any points for this but I did not want to have no deliverables for this midterm.
 
