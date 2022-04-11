@@ -1,7 +1,9 @@
 # LED-Matrix
-LED Matrix for ECE 387J
+LED Matrix for ECE 387
 
 Justin Chu
+
+Midterm Peripheral Selection
 
 This GitHub page is for my Midterm chip/peripheral selection.
 The wiki page will be a guide for everything that is on this repository.
